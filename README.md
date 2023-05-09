@@ -4,4 +4,4 @@ The Vehicle Routing Problem (VRP) is a well-known combinatorial optimization pro
 Genetic algorithms are a popular approach used to solve VRP. 
 One-point crossover and swap mutation are two genetic operators used in this approach.
 
-![alt text](C:\Users\me5aa\Downloads\9ba2ba03-6a7a-4590-8fcc-29322fbcba84.png"Title Text")
+![image info](C:\Users\me5aa\Downloads\9ba2ba03-6a7a-4590-8fcc-29322fbcba84.png)
